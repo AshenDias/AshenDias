@@ -36,7 +36,7 @@
   <a href="https://linkedin.com/in/ashen-dias">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/>
   </a>
-  <a href="https://twitter.com/ashendias">
+  <a href="https://www.facebook.com/share/1LvkqqZf5o/">
     <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black"/>
   </a>
   <a href="mailto:ashendias057@gmail.com">
