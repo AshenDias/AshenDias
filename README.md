@@ -60,10 +60,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshenDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenDias&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
+  <img src="https://github-readme-stats-yourname.vercel.app/api?username=AshenDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=AshenDias&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshenDias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 <!-- Contribution Snake Animation -->
 ## 🐍 My Contribution Graph
 
