@@ -3,10 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Ashen%20Dias%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Mobile%20App%20Developer&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
-<!-- Animated Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=160&lines=Welcome+to+my+GitHub+Profile!+🚀;I'm+Ashen+Dias+💻;I+build+things+for+the+web+and+mobile+📱;Always+learning+something+new+📚" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Welcome+to+my+GitHub+Profile!+🚀;I'm+Ashen+Dias+💻;I+build+things+for+the+web+and+mobile+📱" alt="Typing SVG" />
   </a>
 </div>
 
