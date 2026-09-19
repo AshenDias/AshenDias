@@ -85,7 +85,7 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashendias&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+ <img src="https://komarev.com/ghpvc/?username=AshenDias&label=VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile views" />
 </div>
 
 <!-- Footer Wave -->
