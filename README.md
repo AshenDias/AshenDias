@@ -18,12 +18,12 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 👋 Hi, I'm **Ashen Dias**
-- 🔭 I'm currently working on **an awesome project**
-- 🌱 I'm currently learning **Next.js & Cloud Architecture**
+- 🔭 I'm currently working on **My Own Projects**
+- 🌱 I'm currently learning **Next.js & Software Developments**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 🤝 I'm looking for help with **System Design**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **ashen@example.com**
+- 📫 How to reach me: **ashendias057@gmail.com**
 - ⚡ Fun fact: **I debug with console.log 😄**
 
 <br clear="both"/>
