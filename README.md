@@ -1,77 +1,68 @@
 <!-- Header Banner with Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashen%20Dias&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Undergraduate%20%7C%20Full%20Stack%20%26%20Mobile%20Dev&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Ashen%20Dias%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Mobile%20App%20Developer&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <!-- Animated Typing SVG -->
 <div align="center">
-  <a href="https://github.com/AshenDias">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&width=650&height=45&lines=CS+Undergraduate+%40+Wayamba+University+🎓;Building+Scalable+Web+%26+Mobile+Apps+📱;Next.js+%7C+TypeScript+%7C+Flutter+%7C+PostgreSQL+⚡" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=160&lines=Welcome+to+my+GitHub+Profile!+🚀;I'm+Ashen+Dias+💻;I+build+things+for+the+web+and+mobile+📱;Always+learning+something+new+📚" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Modern 2-Column About Me -->
-## 👨‍💻 About Me
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>🎓 <b>CS Undergraduate</b> at Wayamba University of Sri Lanka</p>
-      <p>💻 <b>Full Stack & Mobile Developer</b> passionate about modern software architecture and performant applications.</p>
-      <p>🔭 Currently building full-stack platforms with <b>Next.js (App Router), Drizzle ORM, and PostgreSQL</b>.</p>
-      <p>🌱 Deep diving into <b>Distributed Systems, Clean Code, & DevOps</b>.</p>
-      <p>🤝 Open for collaborations on open-source projects & innovative tech builds.</p>
-      <p>📫 Reach me: <a href="mailto:ashendias057@gmail.com">ashendias057@gmail.com</a></p>
-      <p>⚡ Fun fact: <i>Coffee turns into clean code ☕ ➔ 💻</i></p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Developer coding animation"/>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<br/>
+- 👋 Hi, I'm **Ashen Dias**
+- 💻 **Full Stack Developer** | 📱 **Mobile App Developer**
+- 🔭 I'm currently working on **My Own Projects**
+- 🌱 I'm currently learning **Next.js & Software Development**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🤝 I'm looking for help with **System Design**
+- 💬 Ask me about **JavaScript, React, Node.js, Flutter**
+- 📫 How to reach me: **ashendias057@gmail.com**
+- ⚡ Fun fact: **I debug with console.log 😄**
 
-<!-- Connect Badges -->
+<br clear="both"/>
+
+<!-- Social Badges -->
 ## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/ashen-dias">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/>
   </a>
   <a href="https://www.facebook.com/share/1LvkqqZf5o/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black"/>
   </a>
   <a href="mailto:ashendias057@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/>
   </a>
   <a href="https://ashendias.com">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=black"/>
   </a>
 </div>
 
-<br/>
-
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
+<!-- Tech Stack with Animated Icons -->
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,flutter,nodejs,express,postgres,mongodb,tailwind,docker,git,github,figma,linux,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,html,css,mongodb,postgres,docker,git,github,figma,linux,flutter,firebase&theme=dark" />
 </div>
 
 <br/>
 
-<!-- GitHub Stats Cards -->
-## 📊 Analytics & Metrics
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshenDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="175em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenDias&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175em"/>
+  <img src="https://github-readme-stats-yourname.vercel.app/api?username=AshenDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=AshenDias&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshenDias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -79,17 +70,11 @@
 
 <br/>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshenDias&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
 
-<br/>
-
-<!-- Visitor Badge -->
+<!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshenDias&label=PROFILE+VIEWS&color=00F5D4&style=for-the-badge" alt="Profile views" />
+ <img src="https://komarev.com/ghpvc/?username=AshenDias&label=VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile views" />
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
