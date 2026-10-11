@@ -60,25 +60,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api?username=AshenDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=AshenDias&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshenDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenDias&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshenDias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-<!-- Contribution Snake Animation -->
-## 🐍 My Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ashendias/ashendias/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashendias&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshenDias&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <br/>
