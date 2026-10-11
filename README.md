@@ -1,40 +1,39 @@
-<!-- Header Banner -->
+<!-- Animated Wave Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=180&section=header&text=Hello,%20World!%20I'm%20Ashen%20Dias&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20&%20Mobile%20App%20Developer&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Ashen%20Dias&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Undergraduate%20%7C%20Full%20Stack%20%26%20Mobile%20Dev&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
 </div>
 
-<!-- Quick Intro & Typing -->
+<!-- Animated Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&height=50&lines=Building+scalable+web+and+mobile+experiences+🚀;Turning+ideas+into+production-ready+apps+💻" alt="Typing SVG" />
+  <a href="https://github.com/AshenDias">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&width=650&height=45&lines=CS+Undergraduate+%40+Wayamba+University+🎓;Building+Scalable+Web+%26+Mobile+Apps+📱;Next.js+%7C+TypeScript+%7C+Flutter+%7C+PostgreSQL+⚡" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
-<!-- About Me Section -->
+<!-- Modern 2-Column About Me -->
 ## 👨‍💻 About Me
 
 <table>
   <tr>
     <td width="60%">
-      <ul>
-        <li>👋 Hi, I'm <b>Ashen Dias</b></li>
-        <li>💻 <b>Full Stack Developer</b> | 📱 <b>Mobile App Developer</b></li>
-        <li>🔭 Currently working on <b>My Own Projects & Microfinance Systems</b></li>
-        <li>🌱 Learning <b>Advanced Next.js & Software Architecture</b></li>
-        <li>💬 Ask me about <b>JavaScript, React, Node.js, Flutter</b></li>
-        <li>📫 Reach me at <b>ashendias057@gmail.com</b></li>
-        <li>⚡ Fun fact: <i>I debug with console.log 😄</i></li>
-      </ul>
+      <p>🎓 <b>CS Undergraduate</b> at Wayamba University of Sri Lanka</p>
+      <p>💻 <b>Full Stack & Mobile Developer</b> passionate about modern software architecture and performant applications.</p>      <p>🔭 Currently building full-stack platforms with <b>Next.js (App Router), Drizzle ORM, and PostgreSQL</b>.</p>
+      <p>🌱 Deep diving into <b>Distributed Systems, Clean Code, & DevOps</b>.</p>
+      <p>🤝 Open for collaborations on open-source projects & innovative tech builds.</p>
+      <p>📫 Reach me: <a href="mailto:ashendias057@gmail.com">ashendias057@gmail.com</a></p>
+      <p>⚡ Fun fact: <i>Coffee turns into clean code ☕ ➔ 💻</i></p>
     </td>
     <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260px" alt="Coding animation"/>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Developer coding animation"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Connect Badges -->
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -55,45 +54,41 @@
 <br/>
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,html,css,mongodb,postgres,docker,git,github,figma,linux,flutter,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,flutter,nodejs,express,postgres,mongodb,tailwind,docker,git,github,figma,linux,firebase&theme=dark" />
 </div>
 
 <br/>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+<!-- GitHub Stats Cards -->
+## 📊 Analytics & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshenDias&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenDias&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshenDias&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshenDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="175em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenDias&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175em"/>
 </div>
 
 <br/>
 
-<!-- Contribution Snake -->
-## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AshenDias/AshenDias/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshenDias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
+<!-- Activity Graph (Alternative to contribution table) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshenDias&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshenDias&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <br/>
 
-<!-- Visitors Counter -->
+<!-- Visitor Badge -->
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=AshenDias&label=VISITORS&color=00F5D4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AshenDias&label=PROFILE+VIEWS&color=00F5D4&style=for-the-badge" alt="Profile views" />
 </div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
