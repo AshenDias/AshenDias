@@ -55,22 +55,6 @@
 </div>
 
 <br/>
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api?username=AshenDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=AshenDias&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshenDias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-
 <!-- Profile Views Counter -->
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=AshenDias&label=VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile views" />
