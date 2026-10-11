@@ -1,12 +1,12 @@
-<!-- Animated Wave Header Banner -->
+<!-- Header Banner with Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Ashen%20Dias&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Undergraduate%20%7C%20Full%20Stack%20%26%20Mobile%20Dev&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashen%20Dias&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Undergraduate%20%7C%20Full%20Stack%20%26%20Mobile%20Dev&descSize=16" width="100%"/>
 </div>
 
 <!-- Animated Typing SVG -->
 <div align="center">
   <a href="https://github.com/AshenDias">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&width=650&height=45&lines=CS+Undergraduate+%40+Wayamba+University+🎓;Building+Scalable+Web+%26+Mobile+Apps+📱;Next.js+%7C+TypeScript+%7C+Flutter+%7C+PostgreSQL+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&width=650&height=45&lines=CS+Undergraduate+%40+Wayamba+University+🎓;Building+Scalable+Web+%26+Mobile+Apps+📱;Next.js+%7C+TypeScript+%7C+Flutter+%7C+PostgreSQL+⚡" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,7 +19,8 @@
   <tr>
     <td width="60%">
       <p>🎓 <b>CS Undergraduate</b> at Wayamba University of Sri Lanka</p>
-      <p>💻 <b>Full Stack & Mobile Developer</b> passionate about modern software architecture and performant applications.</p>      <p>🔭 Currently building full-stack platforms with <b>Next.js (App Router), Drizzle ORM, and PostgreSQL</b>.</p>
+      <p>💻 <b>Full Stack & Mobile Developer</b> passionate about modern software architecture and performant applications.</p>
+      <p>🔭 Currently building full-stack platforms with <b>Next.js (App Router), Drizzle ORM, and PostgreSQL</b>.</p>
       <p>🌱 Deep diving into <b>Distributed Systems, Clean Code, & DevOps</b>.</p>
       <p>🤝 Open for collaborations on open-source projects & innovative tech builds.</p>
       <p>📫 Reach me: <a href="mailto:ashendias057@gmail.com">ashendias057@gmail.com</a></p>
@@ -78,7 +79,7 @@
 
 <br/>
 
-<!-- Activity Graph (Alternative to contribution table) -->
+<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshenDias&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
@@ -91,4 +92,4 @@
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
